@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1625531818 source:c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+	"parser.h"
+	"dam.h"
+
+1625528280 c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\linkedlist.h
+
+1625529556 c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\pais.h
+
+1625524086 c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\parser.h
+
+1625526890 c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\dam.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1625531236 source:c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\dam.c
+	<ctype.h>
+	"dam.h"
+
+1625531057 source:c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"pais.h"
+	"dam.h"
+
+1625523702 source:c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+	"parser.h"
+
+1625531470 source:c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"dam.h"
+	"LinkedList.h"
+	"Controller.h"
+	"pais.h"
+
+1625531719 source:c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pais.h"
+
+1625524159 c:\users\usuario\desktop\2do parcial progi\lopez.damian.splabi1g\lopezdamian_splaboi\controller.h
+
